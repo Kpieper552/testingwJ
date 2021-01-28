@@ -10,6 +10,6 @@ console.log (Size)
 
 
 //exporteren
-// module.exports = {
-//  getSize: GetSize,
-//};
+module.exports = {
+getSize: getSize,
+};
