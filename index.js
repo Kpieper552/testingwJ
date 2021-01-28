@@ -1,10 +1,5 @@
-// write function beneath
-function getSize(width, lenght) {
-    return width * lenght;
-}
-const Size = getSize(85, 1.70)
-
-console.log (Size)
+// write function beneath for testjest
+// function getSize(width, length)
 
 
 
