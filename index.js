@@ -1,4 +1,3 @@
-// write function beneath
 function getSize(width, lenght) {
     return width * lenght;
 }
