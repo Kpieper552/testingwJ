@@ -1,3 +1,4 @@
+//solution:
 function getSize(width, length) {
     return width * length;
 }
